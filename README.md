@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+hello this is brayden tantisira. I like to play soccer and tennis and I love to play with my dog. I also like star wars.
 <!--
 **BraydenTantisira/BraydenTantisira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
